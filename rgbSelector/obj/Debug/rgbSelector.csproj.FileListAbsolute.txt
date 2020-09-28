@@ -1,0 +1,10 @@
+C:\Users\MrJW3\source\repos\rgbSelector\rgbSelector\bin\Debug\rgbSelector.exe.config
+C:\Users\MrJW3\source\repos\rgbSelector\rgbSelector\bin\Debug\rgbSelector.exe
+C:\Users\MrJW3\source\repos\rgbSelector\rgbSelector\bin\Debug\rgbSelector.pdb
+C:\Users\MrJW3\source\repos\rgbSelector\rgbSelector\obj\Debug\rgbSelector.csprojAssemblyReference.cache
+C:\Users\MrJW3\source\repos\rgbSelector\rgbSelector\obj\Debug\rgbSelector.rgbForm.resources
+C:\Users\MrJW3\source\repos\rgbSelector\rgbSelector\obj\Debug\rgbSelector.Properties.Resources.resources
+C:\Users\MrJW3\source\repos\rgbSelector\rgbSelector\obj\Debug\rgbSelector.csproj.GenerateResource.cache
+C:\Users\MrJW3\source\repos\rgbSelector\rgbSelector\obj\Debug\rgbSelector.csproj.CoreCompileInputs.cache
+C:\Users\MrJW3\source\repos\rgbSelector\rgbSelector\obj\Debug\rgbSelector.exe
+C:\Users\MrJW3\source\repos\rgbSelector\rgbSelector\obj\Debug\rgbSelector.pdb
