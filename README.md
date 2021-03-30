@@ -25,6 +25,6 @@ An image of the application can be found below:
     - Downlaod the code as a zip
     - Clone the repository using git on Visual Studio
       1. To do this -> open up visual studio and click on "Clone a repository"
-      2. Then copy this repository's link
-      3. Paste the link in the "Repository Link"
+      2. Then copy this repository's link on github
+      3. Paste the link in the "Repository Link" in visual studio
       4. Finally, Click on the "Clone" button
